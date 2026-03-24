@@ -1,13 +1,13 @@
 {
   "gallery_title": "VRC gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-03-24 20:01:33",
+  "last_updated": "2026-03-24 20:21:14",
   "images": [
     {
       "file_hash": "ab863224",
       "date": "2026-03-20",
-      "title": "",
-      "description": "",
+      "title": "1",
+      "description": "test",
       "category": "Uncategorized",
       "tags": [],
       "photographer": ""
@@ -15,9 +15,9 @@
   ],
   "categories": [
     "Uncategorized",
-    "Main Event",
     "Selfie",
     "Landscape",
     "Group Photo"
-  ]
+  ],
+  "base_url": "F:/booth/b7977918/DynamicGallerySystemV0.52_beta/Manager\\vrc-gallery\\urldata.json"
 }

@@ -1,8 +1,35 @@
 {
   "gallery_title": "VRC gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-03-24 20:32:57",
+  "last_updated": "2026-03-24 20:35:56",
   "images": [
+    {
+      "file_hash": "112d1e6a",
+      "date": "2026-01-25",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "26fae66c",
+      "date": "2026-03-04",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "bb275757",
+      "date": "2026-03-20",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
     {
       "file_hash": "ab863224",
       "date": "2026-03-20",

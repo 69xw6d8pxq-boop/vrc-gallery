@@ -1,7 +1,7 @@
 {
   "gallery_title": "VRC gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-03-24 20:22:37",
+  "last_updated": "2026-03-24 20:32:57",
   "images": [
     {
       "file_hash": "ab863224",
@@ -19,5 +19,5 @@
     "Landscape",
     "Group Photo"
   ],
-  "base_url": "F:/booth/b7977918/DynamicGallerySystemV0.52_beta/Manager\\vrc-gallery\\urldata.json"
+  "base_url": "https://69xw6d8pxq-boop.github.io/vrc-gallery"
 }
